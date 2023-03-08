@@ -1,0 +1,5 @@
+API key : AIzaSyDGgSP4bAnFebYiQBsB_cZz199hgKHj-N0
+
+Client ID : 1058017296217-r7vf80lqh6n0041hl7vhddha6so2k1vh.apps.googleusercontent.com
+
+Client Secret : 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

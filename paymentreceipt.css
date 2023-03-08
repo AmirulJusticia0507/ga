@@ -1,0 +1,55 @@
+/* Styling CSS untuk header */
+
+#header {
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+/* Styling CSS untuk judul */
+
+#title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* Styling CSS untuk tulisan di sebelah kanan judul */
+
+#info {
+    text-align: right;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* Styling CSS untuk tabel */
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+
+/* Styling CSS untuk signature */
+
+#signature {
+    text-align: center;
+    margin-top: 50px;
+}
